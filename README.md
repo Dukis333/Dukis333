@@ -1,16 +1,48 @@
-## Hi there 👋
+# Marcos Eduardo Silva da Luz
 
-<!--
-**Dukis333/Dukis333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor Full Stack, com foco em engenharia de produto e experiência prática em web, mobile e backend para operações de alta demanda.
 
-Here are some ideas to get you started:
+## Foco profissional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Arquitetura e desenvolvimento de plataformas SaaS
+- APIs, automações e integrações orientadas a negócio
+- Entrega de ponta a ponta: produto, código e operação
+
+## Stack principal
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
+![React_Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+## Portfólio atual (repositórios privados)
+
+> Meus projetos estão privados por estratégia comercial e confidencialidade. Em conversa, apresento arquitetura, demo e detalhes técnicos.
+
+- `Sistema SaaS Multi-tenant para Operações Food Service` (TypeScript): gestão de atendimento, fluxo de caixa e operação de PDV.
+- `Sistema LMS Multi-tenant para Assinaturas e Conteúdo` (TypeScript): plataforma de área de membros com gestão de acesso, trilhas, módulos e conteúdo por assinatura.
+- `Sistema Mobile de Assistência Operacional para Mobilidade` (Kotlin): app Android com recursos de produtividade e suporte à operação.
+- `Sistema Mobile de Simulação Financeira` (JavaScript): app Expo/React Native para projeções de investimento e planejamento.
+- `Sistema para Amigo Secreto` (PHP): plataforma web de sorteio com autenticação, regras anti-colisão e painel de gestão.
+- `Sistema Web de Comandas e Caixa em Tempo Real` (JavaScript): operação de cardápio, pedidos e fechamento.
+
+## O que entrego
+
+- Desenvolvimento full stack com visão de produto e impacto de negócio
+- Código limpo, documentado e preparado para escala
+- Arquitetura orientada a performance, manutenção e continuidade
+- Comunicação objetiva, com execução consistente
+
+## Contato
+
+- Email: [marcosxxt658@gmail.com](mailto:marcosxxt658@gmail.com)
+- WhatsApp: [wa.me/5593981160223](https://wa.me/5593981160223)
+- Instagram: [@marcos_xll77](https://instagram.com/marcos_xll77)
+
+Estou aberto a oportunidades em Full Stack, Backend, Frontend e Mobile.
