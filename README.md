@@ -31,6 +31,7 @@ Sou desenvolvedor Full Stack, com foco em engenharia de produto e experiência p
 - `Sistema Mobile de Simulação Financeira` (JavaScript): app Expo/React Native para projeções de investimento e planejamento.
 - `Sistema para Amigo Secreto` (PHP): plataforma web de sorteio com autenticação, regras anti-colisão e painel de gestão.
 - `Sistema Web de Comandas e Caixa em Tempo Real` (JavaScript): operação de cardápio, pedidos e fechamento.
+- - `Sistema Para Pousadas e Casas de Temporada` (JavaScript): operação de alugamento digital.
 
 ## O que entrego
 
