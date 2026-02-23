@@ -32,7 +32,7 @@ Sou desenvolvedor Full Stack, com foco em engenharia de produto e experiência p
 - `Sistema para Amigo Secreto` (PHP): plataforma web de sorteio com autenticação, regras anti-colisão e painel de gestão.
 - `Sistema Web de Comandas e Caixa em Tempo Real` (JavaScript): operação de cardápio, pedidos e fechamento.
 - `Sistema Para Pousadas e Casas de Temporada` (JavaScript): operação de alugamento digital.
-
+- `Sistema Para Uma Açaiteria Com Ranking de Mais vendidos` (JavaScript): operação de cardápio, pedidos e fechamento.
 ## O que entrego
 
 - Desenvolvimento full stack com visão de produto e impacto de negócio
